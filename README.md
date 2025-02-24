@@ -1,5 +1,9 @@
 # **Sephora Data Analysis – Business Insights & ETL Implementation**
 
+## Link to Large files:
+[SephoraProductReviewWithAlteryxOutput.bak (OneDrive)](https://drive.google.com/file/d/1gFCVEuep2Sy83682liob-S_7kSmv3J1L/view?usp=drive_link)
+
+
 ## **Project Overview**
 This project analyzes customer reviews and product performance using the **Sephora Products and Skincare Reviews** dataset from Kaggle. The goal is to extract meaningful business insights that can help Sephora optimize inventory management, enhance customer experience, and improve product recommendations.
 
