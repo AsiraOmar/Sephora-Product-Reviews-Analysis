@@ -1,11 +1,17 @@
 # **Sephora Data Analysis – Business Insights & ETL Implementation**
 
 ## Link to Large files: [Folder](https://drive.google.com/drive/folders/14_A7uznoAyWU44rxQ26U1LE1wv1qS3hf?usp=drive_link)
+
 [Sephora database as a BAK file](https://drive.google.com/file/d/1gFCVEuep2Sy83682liob-S_7kSmv3J1L/view?usp=drive_link)
+
 [Alteryx Workflow](https://drive.google.com/file/d/1MgxNnT9HJAYTXaxpplUb0OPNFhtgURIK/view?usp=drive_link)
+
 [Fact and Dimension Creation - ER](https://drive.google.com/file/d/1O_9NK6IxLpCX7gX8qXyTJAamXiLlZkCL/view?usp=drive_link)
+
 [SQL Queries](https://drive.google.com/file/d/1fxlurR_TOp9WI4AMtqB4zKtjXPpKq23q/view?usp=drive_link)
+
 [Pyspark queries](https://drive.google.com/file/d/1zeiy0WjL_yNx5GKQ21MHCdUUD9Q-NpIa/view?usp=drive_link)
+
 [Power BI dashboard](https://drive.google.com/file/d/1Y_Ng7C4SeupW55Fa_k11p-5biV83Ee72/view?usp=drive_link)
 
 
